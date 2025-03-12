@@ -7,3 +7,7 @@ node_modules/
 # Ignore system files
 Thumbs.db
 Desktop.ini
+.vscode/
+.DS_Store
+.idea/
+
